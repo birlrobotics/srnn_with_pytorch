@@ -1,0 +1,20 @@
+10 9
+/path_to_file/0510144350_1.txt
+/path_to_file/0510144350_2.txt
+/path_to_file/0510144350_3.txt
+/path_to_file/0510144350_4.txt
+/path_to_file/0510144350_5.txt
+/path_to_file/0510144350_6.txt
+/path_to_file/0510144350_7.txt
+/path_to_file/0510144350_8.txt
+/path_to_file/0510144350_9.txt
+/path_to_file/0510144350_10.txt
+/path_to_file/0510144350_1_2.txt
+/path_to_file/0510144350_2_3.txt
+/path_to_file/0510144350_3_4.txt
+/path_to_file/0510144350_4_5.txt
+/path_to_file/0510144350_5_6.txt
+/path_to_file/0510144350_6_7.txt
+/path_to_file/0510144350_7_8.txt
+/path_to_file/0510144350_8_9.txt
+/path_to_file/0510144350_9_10.txt

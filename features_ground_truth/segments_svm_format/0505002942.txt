@@ -1,0 +1,16 @@
+8 7
+/path_to_file/0505002942_1.txt
+/path_to_file/0505002942_2.txt
+/path_to_file/0505002942_3.txt
+/path_to_file/0505002942_4.txt
+/path_to_file/0505002942_5.txt
+/path_to_file/0505002942_6.txt
+/path_to_file/0505002942_7.txt
+/path_to_file/0505002942_8.txt
+/path_to_file/0505002942_1_2.txt
+/path_to_file/0505002942_2_3.txt
+/path_to_file/0505002942_3_4.txt
+/path_to_file/0505002942_4_5.txt
+/path_to_file/0505002942_5_6.txt
+/path_to_file/0505002942_6_7.txt
+/path_to_file/0505002942_7_8.txt

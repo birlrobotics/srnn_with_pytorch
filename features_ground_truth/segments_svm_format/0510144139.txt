@@ -1,0 +1,16 @@
+8 7
+/path_to_file/0510144139_1.txt
+/path_to_file/0510144139_2.txt
+/path_to_file/0510144139_3.txt
+/path_to_file/0510144139_4.txt
+/path_to_file/0510144139_5.txt
+/path_to_file/0510144139_6.txt
+/path_to_file/0510144139_7.txt
+/path_to_file/0510144139_8.txt
+/path_to_file/0510144139_1_2.txt
+/path_to_file/0510144139_2_3.txt
+/path_to_file/0510144139_3_4.txt
+/path_to_file/0510144139_4_5.txt
+/path_to_file/0510144139_5_6.txt
+/path_to_file/0510144139_6_7.txt
+/path_to_file/0510144139_7_8.txt

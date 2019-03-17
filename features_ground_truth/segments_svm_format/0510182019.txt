@@ -1,0 +1,24 @@
+12 11
+/path_to_file/0510182019_1.txt
+/path_to_file/0510182019_2.txt
+/path_to_file/0510182019_3.txt
+/path_to_file/0510182019_4.txt
+/path_to_file/0510182019_5.txt
+/path_to_file/0510182019_6.txt
+/path_to_file/0510182019_7.txt
+/path_to_file/0510182019_8.txt
+/path_to_file/0510182019_9.txt
+/path_to_file/0510182019_10.txt
+/path_to_file/0510182019_11.txt
+/path_to_file/0510182019_12.txt
+/path_to_file/0510182019_1_2.txt
+/path_to_file/0510182019_2_3.txt
+/path_to_file/0510182019_3_4.txt
+/path_to_file/0510182019_4_5.txt
+/path_to_file/0510182019_5_6.txt
+/path_to_file/0510182019_6_7.txt
+/path_to_file/0510182019_7_8.txt
+/path_to_file/0510182019_8_9.txt
+/path_to_file/0510182019_9_10.txt
+/path_to_file/0510182019_10_11.txt
+/path_to_file/0510182019_11_12.txt

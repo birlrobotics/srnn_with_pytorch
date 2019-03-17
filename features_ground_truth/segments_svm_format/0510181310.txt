@@ -1,0 +1,22 @@
+11 10
+/path_to_file/0510181310_1.txt
+/path_to_file/0510181310_2.txt
+/path_to_file/0510181310_3.txt
+/path_to_file/0510181310_4.txt
+/path_to_file/0510181310_5.txt
+/path_to_file/0510181310_6.txt
+/path_to_file/0510181310_7.txt
+/path_to_file/0510181310_8.txt
+/path_to_file/0510181310_9.txt
+/path_to_file/0510181310_10.txt
+/path_to_file/0510181310_11.txt
+/path_to_file/0510181310_1_2.txt
+/path_to_file/0510181310_2_3.txt
+/path_to_file/0510181310_3_4.txt
+/path_to_file/0510181310_4_5.txt
+/path_to_file/0510181310_5_6.txt
+/path_to_file/0510181310_6_7.txt
+/path_to_file/0510181310_7_8.txt
+/path_to_file/0510181310_8_9.txt
+/path_to_file/0510181310_9_10.txt
+/path_to_file/0510181310_10_11.txt

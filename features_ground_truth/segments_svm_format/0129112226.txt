@@ -1,0 +1,16 @@
+8 7
+/path_to_file/0129112226_1.txt
+/path_to_file/0129112226_2.txt
+/path_to_file/0129112226_3.txt
+/path_to_file/0129112226_4.txt
+/path_to_file/0129112226_5.txt
+/path_to_file/0129112226_6.txt
+/path_to_file/0129112226_7.txt
+/path_to_file/0129112226_8.txt
+/path_to_file/0129112226_1_2.txt
+/path_to_file/0129112226_2_3.txt
+/path_to_file/0129112226_3_4.txt
+/path_to_file/0129112226_4_5.txt
+/path_to_file/0129112226_5_6.txt
+/path_to_file/0129112226_6_7.txt
+/path_to_file/0129112226_7_8.txt

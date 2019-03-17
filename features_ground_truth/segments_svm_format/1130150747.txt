@@ -1,0 +1,16 @@
+8 7
+/path_to_file/1130150747_1.txt
+/path_to_file/1130150747_2.txt
+/path_to_file/1130150747_3.txt
+/path_to_file/1130150747_4.txt
+/path_to_file/1130150747_5.txt
+/path_to_file/1130150747_6.txt
+/path_to_file/1130150747_7.txt
+/path_to_file/1130150747_8.txt
+/path_to_file/1130150747_1_2.txt
+/path_to_file/1130150747_2_3.txt
+/path_to_file/1130150747_3_4.txt
+/path_to_file/1130150747_4_5.txt
+/path_to_file/1130150747_5_6.txt
+/path_to_file/1130150747_6_7.txt
+/path_to_file/1130150747_7_8.txt

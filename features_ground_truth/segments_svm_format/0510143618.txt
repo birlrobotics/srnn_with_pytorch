@@ -1,0 +1,8 @@
+4 3
+/path_to_file/0510143618_1.txt
+/path_to_file/0510143618_2.txt
+/path_to_file/0510143618_3.txt
+/path_to_file/0510143618_4.txt
+/path_to_file/0510143618_1_2.txt
+/path_to_file/0510143618_2_3.txt
+/path_to_file/0510143618_3_4.txt

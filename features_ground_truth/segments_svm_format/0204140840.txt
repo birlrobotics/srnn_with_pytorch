@@ -1,0 +1,18 @@
+9 8
+/path_to_file/0204140840_1.txt
+/path_to_file/0204140840_2.txt
+/path_to_file/0204140840_3.txt
+/path_to_file/0204140840_4.txt
+/path_to_file/0204140840_5.txt
+/path_to_file/0204140840_6.txt
+/path_to_file/0204140840_7.txt
+/path_to_file/0204140840_8.txt
+/path_to_file/0204140840_9.txt
+/path_to_file/0204140840_1_2.txt
+/path_to_file/0204140840_2_3.txt
+/path_to_file/0204140840_3_4.txt
+/path_to_file/0204140840_4_5.txt
+/path_to_file/0204140840_5_6.txt
+/path_to_file/0204140840_6_7.txt
+/path_to_file/0204140840_7_8.txt
+/path_to_file/0204140840_8_9.txt

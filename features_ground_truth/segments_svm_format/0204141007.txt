@@ -1,0 +1,18 @@
+9 8
+/path_to_file/0204141007_1.txt
+/path_to_file/0204141007_2.txt
+/path_to_file/0204141007_3.txt
+/path_to_file/0204141007_4.txt
+/path_to_file/0204141007_5.txt
+/path_to_file/0204141007_6.txt
+/path_to_file/0204141007_7.txt
+/path_to_file/0204141007_8.txt
+/path_to_file/0204141007_9.txt
+/path_to_file/0204141007_1_2.txt
+/path_to_file/0204141007_2_3.txt
+/path_to_file/0204141007_3_4.txt
+/path_to_file/0204141007_4_5.txt
+/path_to_file/0204141007_5_6.txt
+/path_to_file/0204141007_6_7.txt
+/path_to_file/0204141007_7_8.txt
+/path_to_file/0204141007_8_9.txt

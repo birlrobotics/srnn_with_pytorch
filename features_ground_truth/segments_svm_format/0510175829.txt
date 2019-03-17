@@ -1,0 +1,6 @@
+3 2
+/path_to_file/0510175829_1.txt
+/path_to_file/0510175829_2.txt
+/path_to_file/0510175829_3.txt
+/path_to_file/0510175829_1_2.txt
+/path_to_file/0510175829_2_3.txt

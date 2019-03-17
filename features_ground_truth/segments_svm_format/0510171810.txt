@@ -1,0 +1,16 @@
+8 7
+/path_to_file/0510171810_1.txt
+/path_to_file/0510171810_2.txt
+/path_to_file/0510171810_3.txt
+/path_to_file/0510171810_4.txt
+/path_to_file/0510171810_5.txt
+/path_to_file/0510171810_6.txt
+/path_to_file/0510171810_7.txt
+/path_to_file/0510171810_8.txt
+/path_to_file/0510171810_1_2.txt
+/path_to_file/0510171810_2_3.txt
+/path_to_file/0510171810_3_4.txt
+/path_to_file/0510171810_4_5.txt
+/path_to_file/0510171810_5_6.txt
+/path_to_file/0510171810_6_7.txt
+/path_to_file/0510171810_7_8.txt

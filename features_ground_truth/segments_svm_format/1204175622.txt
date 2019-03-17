@@ -1,0 +1,18 @@
+9 8
+/path_to_file/1204175622_1.txt
+/path_to_file/1204175622_2.txt
+/path_to_file/1204175622_3.txt
+/path_to_file/1204175622_4.txt
+/path_to_file/1204175622_5.txt
+/path_to_file/1204175622_6.txt
+/path_to_file/1204175622_7.txt
+/path_to_file/1204175622_8.txt
+/path_to_file/1204175622_9.txt
+/path_to_file/1204175622_1_2.txt
+/path_to_file/1204175622_2_3.txt
+/path_to_file/1204175622_3_4.txt
+/path_to_file/1204175622_4_5.txt
+/path_to_file/1204175622_5_6.txt
+/path_to_file/1204175622_6_7.txt
+/path_to_file/1204175622_7_8.txt
+/path_to_file/1204175622_8_9.txt

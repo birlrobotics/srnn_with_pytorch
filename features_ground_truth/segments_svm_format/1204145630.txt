@@ -1,0 +1,16 @@
+8 7
+/path_to_file/1204145630_1.txt
+/path_to_file/1204145630_2.txt
+/path_to_file/1204145630_3.txt
+/path_to_file/1204145630_4.txt
+/path_to_file/1204145630_5.txt
+/path_to_file/1204145630_6.txt
+/path_to_file/1204145630_7.txt
+/path_to_file/1204145630_8.txt
+/path_to_file/1204145630_1_2.txt
+/path_to_file/1204145630_2_3.txt
+/path_to_file/1204145630_3_4.txt
+/path_to_file/1204145630_4_5.txt
+/path_to_file/1204145630_5_6.txt
+/path_to_file/1204145630_6_7.txt
+/path_to_file/1204145630_7_8.txt
